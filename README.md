@@ -7,4 +7,4 @@ This perl script does not do very much error detection, it rather assumes the da
 For more strict error detection, use the java version of the parser
 
 ## usage
-sgbbook2csv.pl PATH_TO_SGB_FILE.dat PATH_TO_NODE_CSV_OUTPUT.csv PATH_TO_EDGE_CSV_OUTPUT.csv
+./sgbbook2csv.pl PATH_TO_SGB_FILE.dat PATH_TO_NODE_CSV_OUTPUT.csv PATH_TO_EDGE_CSV_OUTPUT.csv
